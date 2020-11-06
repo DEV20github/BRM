@@ -1,0 +1,8 @@
+#view_table {
+    border: 1px solid black;
+    width: 500px;
+}
+
+#view_table tr {
+    background-color: skyblue;
+}
